@@ -1,0 +1,405 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vaish\\source\\repos\\MFA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|c:\\users\\vaish\\source\\repos\\mfa\\mfa\\controllers\\itusermastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|solutionrelative:mfa\\controllers\\itusermastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|c:\\users\\vaish\\source\\repos\\mfa\\mfa\\core\\contract\\iservice\\iusermasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|solutionrelative:mfa\\core\\contract\\iservice\\iusermasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|c:\\users\\vaish\\source\\repos\\mfa\\mfa\\bi\\service\\itusermasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|solutionrelative:mfa\\bi\\service\\itusermasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|c:\\users\\vaish\\source\\repos\\mfa\\mfa\\bi\\service\\sendotpemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|solutionrelative:mfa\\bi\\service\\sendotpemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|c:\\users\\vaish\\source\\repos\\mfa\\mfa\\core\\contract\\irepo\\iitusermasterrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|solutionrelative:mfa\\core\\contract\\irepo\\iitusermasterrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|c:\\users\\vaish\\source\\repos\\mfa\\mfa\\bi\\service\\otpmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|solutionrelative:mfa\\bi\\service\\otpmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|c:\\users\\vaish\\source\\repos\\mfa\\mfa\\core\\contract\\irepo\\iotpmasterrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|solutionrelative:mfa\\core\\contract\\irepo\\iotpmasterrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|c:\\users\\vaish\\source\\repos\\mfa\\mfa\\core\\dto\\otpresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|solutionrelative:mfa\\core\\dto\\otpresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|c:\\users\\vaish\\source\\repos\\mfa\\mfa\\core\\dto\\itusermasterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|solutionrelative:mfa\\core\\dto\\itusermasterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|c:\\users\\vaish\\source\\repos\\mfa\\mfa\\core\\dto\\otpmasterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|solutionrelative:mfa\\core\\dto\\otpmasterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|c:\\users\\vaish\\source\\repos\\mfa\\mfa\\core\\entities\\otpmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|solutionrelative:mfa\\core\\entities\\otpmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|c:\\users\\vaish\\source\\repos\\mfa\\mfa\\data\\dal\\appdbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|solutionrelative:mfa\\data\\dal\\appdbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|c:\\users\\vaish\\source\\repos\\mfa\\mfa\\data\\dal\\repo\\itusermasterrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|solutionrelative:mfa\\data\\dal\\repo\\itusermasterrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|c:\\users\\vaish\\source\\repos\\mfa\\mfa\\core\\entities\\itusermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|solutionrelative:mfa\\core\\entities\\itusermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|c:\\users\\vaish\\source\\repos\\mfa\\mfa\\data\\dal\\repo\\otpmasterrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|solutionrelative:mfa\\data\\dal\\repo\\otpmasterrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|c:\\users\\vaish\\source\\repos\\mfa\\mfa\\encryptotp\\otpencryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|solutionrelative:mfa\\encryptotp\\otpencryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|c:\\users\\vaish\\source\\repos\\mfa\\mfa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|solutionrelative:mfa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|c:\\users\\vaish\\source\\repos\\mfa\\mfa\\enum\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|solutionrelative:mfa\\enum\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|c:\\users\\vaish\\source\\repos\\mfa\\mfa\\jwttoken\\createjwttoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|solutionrelative:mfa\\jwttoken\\createjwttoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|c:\\users\\vaish\\source\\repos\\mfa\\mfa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|solutionrelative:mfa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|c:\\users\\vaish\\source\\repos\\mfa\\mfa\\bi\\map\\otpmastermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|solutionrelative:mfa\\bi\\map\\otpmastermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|c:\\users\\vaish\\source\\repos\\mfa\\mfa\\core\\dto\\paginationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|solutionrelative:mfa\\core\\dto\\paginationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|c:\\users\\vaish\\source\\repos\\mfa\\mfa\\bi\\map\\usermaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|solutionrelative:mfa\\bi\\map\\usermaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|c:\\users\\vaish\\source\\repos\\mfa\\mfa\\migrations\\20251010103100_readdotpcolumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417DB865-7F6E-4462-B56A-9567078B8721}|MFA\\MFA.csproj|solutionrelative:mfa\\migrations\\20251010103100_readdotpcolumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOtpMasterRepo.cs",
+              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\Core\\Contract\\IRepo\\IOtpMasterRepo.cs",
+              "RelativeDocumentMoniker": "MFA\\Core\\Contract\\IRepo\\IOtpMasterRepo.cs",
+              "ToolTip": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\Core\\Contract\\IRepo\\IOtpMasterRepo.cs",
+              "RelativeToolTip": "MFA\\Core\\Contract\\IRepo\\IOtpMasterRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T08:57:10.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IItUserMasterRepo.cs",
+              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\Core\\Contract\\IRepo\\IItUserMasterRepo.cs",
+              "RelativeDocumentMoniker": "MFA\\Core\\Contract\\IRepo\\IItUserMasterRepo.cs",
+              "ToolTip": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\Core\\Contract\\IRepo\\IItUserMasterRepo.cs",
+              "RelativeToolTip": "MFA\\Core\\Contract\\IRepo\\IItUserMasterRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T11:39:12.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITUserMasterService.cs",
+              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\BI\\Service\\ITUserMasterService.cs",
+              "RelativeDocumentMoniker": "MFA\\BI\\Service\\ITUserMasterService.cs",
+              "ToolTip": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\BI\\Service\\ITUserMasterService.cs",
+              "RelativeToolTip": "MFA\\BI\\Service\\ITUserMasterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:36:26.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OtpManager.cs",
+              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\BI\\Service\\OtpManager.cs",
+              "RelativeDocumentMoniker": "MFA\\BI\\Service\\OtpManager.cs",
+              "ToolTip": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\BI\\Service\\OtpManager.cs",
+              "RelativeToolTip": "MFA\\BI\\Service\\OtpManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T10:12:28.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SendOtpEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\BI\\Service\\SendOtpEmailService.cs",
+              "RelativeDocumentMoniker": "MFA\\BI\\Service\\SendOtpEmailService.cs",
+              "ToolTip": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\BI\\Service\\SendOtpEmailService.cs",
+              "RelativeToolTip": "MFA\\BI\\Service\\SendOtpEmailService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T06:04:41.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItUserMasterController.cs",
+              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\Controllers\\ItUserMasterController.cs",
+              "RelativeDocumentMoniker": "MFA\\Controllers\\ItUserMasterController.cs",
+              "ToolTip": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\Controllers\\ItUserMasterController.cs",
+              "RelativeToolTip": "MFA\\Controllers\\ItUserMasterController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAkwFwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T07:10:31.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserMasterService.cs",
+              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\Core\\Contract\\IService\\IUserMasterService.cs",
+              "RelativeDocumentMoniker": "MFA\\Core\\Contract\\IService\\IUserMasterService.cs",
+              "ToolTip": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\Core\\Contract\\IService\\IUserMasterService.cs",
+              "RelativeToolTip": "MFA\\Core\\Contract\\IService\\IUserMasterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:36:00.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Otpresponse.cs",
+              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\Core\\DTO\\Otpresponse.cs",
+              "RelativeDocumentMoniker": "MFA\\Core\\DTO\\Otpresponse.cs",
+              "ToolTip": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\Core\\DTO\\Otpresponse.cs",
+              "RelativeToolTip": "MFA\\Core\\DTO\\Otpresponse.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T05:46:33.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItuserMasterDto.cs",
+              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\Core\\DTO\\ItuserMasterDto.cs",
+              "RelativeDocumentMoniker": "MFA\\Core\\DTO\\ItuserMasterDto.cs",
+              "ToolTip": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\Core\\DTO\\ItuserMasterDto.cs",
+              "RelativeToolTip": "MFA\\Core\\DTO\\ItuserMasterDto.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwDYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T11:22:20.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OtpMasterDto.cs",
+              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\Core\\DTO\\OtpMasterDto.cs",
+              "RelativeDocumentMoniker": "MFA\\Core\\DTO\\OtpMasterDto.cs",
+              "ToolTip": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\Core\\DTO\\OtpMasterDto.cs",
+              "RelativeToolTip": "MFA\\Core\\DTO\\OtpMasterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:12:21.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OtpMaster.cs",
+              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\Core\\Entities\\OtpMaster.cs",
+              "RelativeDocumentMoniker": "MFA\\Core\\Entities\\OtpMaster.cs",
+              "ToolTip": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\Core\\Entities\\OtpMaster.cs",
+              "RelativeToolTip": "MFA\\Core\\Entities\\OtpMaster.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wBEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T08:54:47.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\Data\\DAL\\AppDbContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MFA\\Data\\DAL\\AppDbContext\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\Data\\DAL\\AppDbContext\\AppDbContext.cs",
+              "RelativeToolTip": "MFA\\Data\\DAL\\AppDbContext\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T11:47:42.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ItUserMasterRepo.cs",
+              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\Data\\DAL\\Repo\\ItUserMasterRepo.cs",
+              "RelativeDocumentMoniker": "MFA\\Data\\DAL\\Repo\\ItUserMasterRepo.cs",
+              "ToolTip": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\Data\\DAL\\Repo\\ItUserMasterRepo.cs",
+              "RelativeToolTip": "MFA\\Data\\DAL\\Repo\\ItUserMasterRepo.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwDMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T11:45:19.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITUserMaster.cs",
+              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\Core\\Entities\\ITUserMaster.cs",
+              "RelativeDocumentMoniker": "MFA\\Core\\Entities\\ITUserMaster.cs",
+              "ToolTip": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\Core\\Entities\\ITUserMaster.cs",
+              "RelativeToolTip": "MFA\\Core\\Entities\\ITUserMaster.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:48:51.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OtpMasterRepo.cs",
+              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\Data\\DAL\\Repo\\OtpMasterRepo.cs",
+              "RelativeDocumentMoniker": "MFA\\Data\\DAL\\Repo\\OtpMasterRepo.cs",
+              "ToolTip": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\Data\\DAL\\Repo\\OtpMasterRepo.cs",
+              "RelativeToolTip": "MFA\\Data\\DAL\\Repo\\OtpMasterRepo.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T08:57:29.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OtpEncryptionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\EncryptOTP\\OtpEncryptionHelper.cs",
+              "RelativeDocumentMoniker": "MFA\\EncryptOTP\\OtpEncryptionHelper.cs",
+              "ToolTip": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\EncryptOTP\\OtpEncryptionHelper.cs",
+              "RelativeToolTip": "MFA\\EncryptOTP\\OtpEncryptionHelper.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:01:01.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\appsettings.json",
+              "RelativeDocumentMoniker": "MFA\\appsettings.json",
+              "ToolTip": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\appsettings.json",
+              "RelativeToolTip": "MFA\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T07:07:07.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\Enum\\Enum.cs",
+              "RelativeDocumentMoniker": "MFA\\Enum\\Enum.cs",
+              "ToolTip": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\Enum\\Enum.cs",
+              "RelativeToolTip": "MFA\\Enum\\Enum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T11:33:48.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OtpMasterMap.cs",
+              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\BI\\Map\\OtpMasterMap.cs",
+              "RelativeDocumentMoniker": "MFA\\BI\\Map\\OtpMasterMap.cs",
+              "ToolTip": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\BI\\Map\\OtpMasterMap.cs",
+              "RelativeToolTip": "MFA\\BI\\Map\\OtpMasterMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:13:40.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20251010103100_ReAddOtpColumns.cs",
+              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\Migrations\\20251010103100_ReAddOtpColumns.cs",
+              "RelativeDocumentMoniker": "MFA\\Migrations\\20251010103100_ReAddOtpColumns.cs",
+              "ToolTip": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\Migrations\\20251010103100_ReAddOtpColumns.cs",
+              "RelativeToolTip": "MFA\\Migrations\\20251010103100_ReAddOtpColumns.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T10:31:00.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PaginationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\Core\\DTO\\PaginationRequest.cs",
+              "RelativeDocumentMoniker": "MFA\\Core\\DTO\\PaginationRequest.cs",
+              "ToolTip": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\Core\\DTO\\PaginationRequest.cs",
+              "RelativeToolTip": "MFA\\Core\\DTO\\PaginationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T13:11:06.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\Program.cs",
+              "RelativeDocumentMoniker": "MFA\\Program.cs",
+              "ToolTip": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\Program.cs",
+              "RelativeToolTip": "MFA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T07:17:13.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateJwtToken.cs",
+              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\JwtToken\\CreateJwtToken.cs",
+              "RelativeDocumentMoniker": "MFA\\JwtToken\\CreateJwtToken.cs",
+              "ToolTip": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\JwtToken\\CreateJwtToken.cs",
+              "RelativeToolTip": "MFA\\JwtToken\\CreateJwtToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T11:15:45.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserMaper.cs",
+              "DocumentMoniker": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\BI\\Map\\UserMaper.cs",
+              "RelativeDocumentMoniker": "MFA\\BI\\Map\\UserMaper.cs",
+              "ToolTip": "C:\\Users\\vaish\\source\\repos\\MFA\\MFA\\BI\\Map\\UserMaper.cs",
+              "RelativeToolTip": "MFA\\BI\\Map\\UserMaper.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T13:16:16.633Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
