@@ -180,3 +180,4 @@ C:\Users\vaish\source\repos\MFA\MFA\obj\Debug\net8.0\refint\MFA.dll
 C:\Users\vaish\source\repos\MFA\MFA\obj\Debug\net8.0\MFA.pdb
 C:\Users\vaish\source\repos\MFA\MFA\obj\Debug\net8.0\MFA.genruntimeconfig.cache
 C:\Users\vaish\source\repos\MFA\MFA\obj\Debug\net8.0\ref\MFA.dll
+C:\Users\vaish\source\repos\MFA\MFA\obj\Debug\net8.0\MFA.sourcelink.json
