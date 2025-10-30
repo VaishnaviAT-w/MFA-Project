@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MFA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1d2521d43673d14caf65d38d241644e3d17c711")]
 [assembly: System.Reflection.AssemblyProductAttribute("MFA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MFA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
