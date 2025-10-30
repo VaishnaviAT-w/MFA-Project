@@ -121,7 +121,7 @@ namespace MFA.BI.Controllers
                 response.IsSent = false;
                 response.Message = $"Failed to send OTP: {ex.Message}";
                 response.Result = ResponseModel.Failed;
-            }
+            } 
 
             return response;
         }

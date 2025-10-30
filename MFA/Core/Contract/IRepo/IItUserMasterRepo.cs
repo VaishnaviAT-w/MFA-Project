@@ -8,11 +8,11 @@ namespace MFA.Core.Contract.IRepo
     {
         Task<ITUserMaster> AddItUserMaster(ITUserMaster user);
         Task UpdateItUserMaster(ITUserMaster user);
-        IQueryable<ITUserMaster> GetAllItUserMaster();
-        Task<ITUserMaster?> ValidateUser(string email, string password);
-        Task<ITUserMaster?> GetByEmail(string email);
+        IQueryable<ITUserMaster> GetAllItUserMaster();  
+        Task<ITUserMaster?> ValidateUser(string email, string password); 
+        Task<ITUserMaster?> GetByEmail(string email); 
         Task UpdateUser(ITUserMaster user);
-        Task SaveOtpAsync(OtpMaster otp);
+        Task SaveOtpAsync(OtpMaster otp); 
     }
 }
 
