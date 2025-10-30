@@ -106,6 +106,20 @@ namespace MFA.BI.Controllers
 
             try
             {
+                var randomUserId = Guid.NewGuid();
+
+                var otpMaster = new OtpMaster
+                {
+                    OtpId = Guid.NewGuid(),
+                    UserId = Guid.NewGuid(),
+                    OtpCode = otp,
+                    OtpType = "EMAIL",
+                    IsUsed = false,
+                    ExpiresAt = DateTime.UtcNow.AddMinutes(5),
+                    CreatedAt = DateTime.UtcNow,
+                    IsActive = true
+                };
+
                 await _emailService.SendOtpAsync(email, otp);
 
                 var saveResponse = await _userService.SaveOtpAsync(email, otp);
@@ -122,65 +136,8 @@ namespace MFA.BI.Controllers
                 response.Message = $"Failed to send OTP: {ex.Message}";
                 response.Result = ResponseModel.Failed;
             } 
-
             return response;
         }
     }
 }
 
-
-
-
-
-
-
-//        [HttpPost("SendOtp")]
-//        [AllowAnonymous]
-//        public async Task<OtpResponse> SendOtp([FromBody] string email)
-//        {
-//            var response = new OtpResponse();
-
-//            if (string.IsNullOrEmpty(email))
-//            {
-//                response.IsSent = false;
-//                response.Message = "Email is required.";
-//                return response;
-//            }
-
-//            var otp = new Random().Next(100000, 999999).ToString();
-
-//            try
-//            {
-//                var randomUserId = Guid.NewGuid();
-
-//                var otpMaster = new OtpMaster
-//                {
-//                    OtpId = Guid.NewGuid(),
-//                    UserId = Guid.NewGuid(),
-//                    OtpCode = otp,
-//                    OtpType = "EMAIL",
-//                    IsUsed = false,
-//                    ExpiresAt = DateTime.UtcNow.AddMinutes(5),
-//                    CreatedAt = DateTime.UtcNow,
-//                    IsActive = true
-//                };
-
-//                await _emailService.SendOtpAsync(email, otp);
-
-//                response.Email = email;
-//                response.Otp = otp;
-//                response.IsSent = true;
-//                response.Message = $"OTP sent successfully to {email}";
-//                response.Result = ResponseModel.Success;
-//            }
-//            catch (Exception ex)
-//            {
-//                response.IsSent = false;
-//                response.Message = $"Failed to send OTP: {ex.Message}";
-//                response.Result = ResponseModel.Failed;
-//            }
-
-//            return response;
-//        }
-//    }
-//}
