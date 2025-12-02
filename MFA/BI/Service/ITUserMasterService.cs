@@ -22,7 +22,6 @@ namespace MFA.BI.Service
         private readonly int _maxOtpAttempts;
       //  private readonly SendOtpEmailService _emailService;
 
-
         public ITUserMasterService(
             IItUserMasterRepo userRepo,
             ItUserMasterMap mapper,
@@ -117,7 +116,7 @@ namespace MFA.BI.Service
                         OtpGeneratedOn = x.OtpGeneratedOn,
                         IsVerified = x.IsVerified,
                         CreatedBy = x.CreatedBy,
-                        UpdatedBy = x.UpdatedBy,
+                        UpdatedBy = x.UpdatedBy,    
                         CreatedOn = x.CreatedOn,
                         UpdatedOn = x.UpdatedOn
                     })
@@ -155,7 +154,7 @@ namespace MFA.BI.Service
                     return response;
                 }
 
-                var updatedBy = Guid.NewGuid();
+                var updatedBy = Guid.NewGuid(); 
                 entity = _mapper.DeleteMap(entity, updatedBy);
 
                 await _userRepo.UpdateItUserMaster(entity);
@@ -309,7 +308,7 @@ namespace MFA.BI.Service
             {
                 user.OtpAttempts++;
                 if (user.OtpAttempts >= _maxOtpAttempts)
-                {
+                {   
                     user.IsOtpLocked = true;
                     user.OtpLockedOn = DateTime.UtcNow;
                 }

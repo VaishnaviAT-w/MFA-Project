@@ -12,9 +12,6 @@ namespace MFA.Core.Entities
 
         public Guid UserId { get; set; }
 
-       /* [ForeignKey("UserId")]
-        public ITUserMaster? User { get; set; }*/
-
         [MaxLength(255)]
         public string OtpCode { get; set; } = string.Empty;
 
@@ -29,5 +26,8 @@ namespace MFA.Core.Entities
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 
         public bool IsActive { get; set; } = true;
+
+        /* [ForeignKey("UserId")]
+      public ITUserMaster? User { get; set; }*/
     }
 }

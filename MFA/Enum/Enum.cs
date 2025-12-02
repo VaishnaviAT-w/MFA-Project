@@ -11,7 +11,7 @@ namespace MFA.Enum
     {
         Success = 1,
         Failed = 2,
-        NotFound = 3,
+        NotFound = 3, 
         AlreadyExists = 4,
         Expired = 5
     }
